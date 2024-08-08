@@ -6,7 +6,7 @@
 ![건부기's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbugi&show_icons=true&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pigonhair)](https://solved.ac/pigonhair/)
 
-<!--
+
 # :sparkles:TECH STACKS
 ### Main Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=appveyor&logo=Java&logoColor=white)
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=appveyor&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?&style=appveyor&logo=GitLab&logoColor=white)
 ![GitKraken](https://img.shields.io/badge/GitKraken-179287.svg?&style=appveyor&logo=GitKraken&logoColor=white)
-
+<!--
 ### Database(DB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=appveyor&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=appveyor&logo=MariaDB&logoColor=white)
@@ -34,8 +34,8 @@
 ### Operation System
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=appveyor&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=appveyor&logo=Linux&logoColor=black)
-
+-->
 # :mailbox_with_mail: Contacts   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=appveyor&logo=Gmail&logoColor=white&link=mailto:drybugi@gmail.com)](mailto:drybugi@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=appveyor&logo=Naver&logoColor=white&link=mailto:dryrain94@naver.com)](mailto:dryrain94@naver.com)
--->
+
