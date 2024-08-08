@@ -2,7 +2,8 @@
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgbugi&count_bg=%23FD53A5&title_bg=%2398847A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)-->
 
-![건부기's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbugi&show_icons=true&theme=radical)
+<!--![건부기's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbugi&show_icons=true&theme=radical)-->
+![건부기's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbugi&show_icons=true&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pigonhair)](https://solved.ac/pigonhair/)
 
 <!--
