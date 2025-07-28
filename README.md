@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=kunwoo%20kim&fontSize=80&fontAlignY=40&desc=Back-end%20Developer&descSize=30&descAlign=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=kunwoo%20kim&fontSize=80&fontAlignY=40&desc=Backend%20Developer&descSize=30&descAlign=70&animation=twinkling)
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgbugi&count_bg=%23FD53A5&title_bg=%2398847A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)-->
 
